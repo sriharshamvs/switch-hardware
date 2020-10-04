@@ -1,6 +1,6 @@
 # Project Switch - Hardware
 
-__Hardware__ is the hardware for the __Project Switch__. This module recevies data from __flask__ server and drives the data.
+__Hardware__ is the hardware for the __Project Switch__. This module recevies data from __flask__ server and drives the relay board.
 
 ## Getting Started
 
